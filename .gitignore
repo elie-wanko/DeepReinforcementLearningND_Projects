@@ -125,3 +125,4 @@ dmypy.json
 
 #ignore files
 necessary DRLND.png
+*.pdf
